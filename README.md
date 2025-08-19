@@ -36,3 +36,7 @@ Foodies/
 # 👩‍💻 Author
 Harshita Harwani
 GitHub: @harshitatech25
+Usha Assudani
+GitHub: @UshaAssudani
+Minal Sharma
+GitHub: @minal-sharma92
